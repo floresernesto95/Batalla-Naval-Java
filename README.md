@@ -1,7 +1,7 @@
 ### Batalla Naval en Java
 
 <p align="center">
-  <img src="./docs/_images/img.png" alt="BATALLA NAVAL"/>
+  <img src="docs/_images/Batalla naval - Foto proyecto 1.png"/>
 </p>
 
 #### Resumen
