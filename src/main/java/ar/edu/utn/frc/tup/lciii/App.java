@@ -1,7 +1,7 @@
 package ar.edu.utn.frc.tup.lciii;
 
 /**
- * Hello to Parcial 1 - BATALLA NAVAL
+ * Hello to BATALLA NAVAL
  *
  */
 public class App 
@@ -15,7 +15,7 @@ public class App
      * IMPORTANTE: Este metodo no necesita ser modificado
      */
     public static void main( String[] args ) {
-        System.out.println("Hello, Parcial 1 - BATALLA NAVAL.");
+        System.out.println("Hello to BATALLA NAVAL.");
         battleShipMatch.welcomeMessage();
         Player player = battleShipMatch.createNewPlayer();
         Player appPlayer = battleShipMatch.createAppPlayer();
