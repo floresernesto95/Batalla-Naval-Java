@@ -1,4 +1,4 @@
-### Batalla Naval en Java
+### Battleship in Java
 
 <p align="center">
   <img src="docs/_images/Batalla naval - Foto proyecto 1.png"/>
